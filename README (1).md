@@ -15,7 +15,7 @@ The purpose of this analysis was to explore and understand the factors influenci
 Through rigorous exploratory data analysis (EDA), we investigated distributions, correlations, and anomalies across key variables, identifying both opportunities and risks. Statistical summaries and visualizations were used to highlight trends in borrower demographics, loan term preferences, and repayment behavior. Particular attention was given to identifying factors contributing to defaults and late payments, enabling data-driven insights into credit risk and profitability.
 
 This analysis provides a foundation for evidence-based decision-making, equipping business leaders, risk managers, and operational teams with actionable insights to optimize loan offerings, mitigate risk, and enhance overall portfolio performance.
-## COnclusion
+## Conclusion
 
 The analysis revealed several significant insights into borrower behavior and loan outcomes. Key observations include:
 
