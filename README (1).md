@@ -4,8 +4,7 @@
 
 ## Dataset
 
-This project explores a dataset with loan data of approximately 113,937 loans consisting of 81 features. The dataset being used for this project is the prosper loan Dataset, provided by the Udacity Nanodegree program.
-
+This project explores a dataset with loan data of approximately 113,937 loans consisting of 81 features. 
 The main features i explored in the data consisted of Borrowers' information and loan information
 
 
